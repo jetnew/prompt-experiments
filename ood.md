@@ -12,7 +12,7 @@ Applying the prompt on my GPT4o-based browser assistant [Atlas](https://atlas.ae
 <summary>
 One of the most surprising and novel insights that can be drawn from the discussion on persistence versus obstinacy is the potential application of these concepts to the field of quantum computing and the interpretation of quantum mechanics.
 </summary>
-
+<br>
 Insight: Quantum Persistence and Obstinacy
 In quantum mechanics, particles exist in a superposition of states until they are observed, at which point they collapse into a single state. This phenomenon can be metaphorically linked to the concepts of persistence and obstinacy in human behavior.
 
