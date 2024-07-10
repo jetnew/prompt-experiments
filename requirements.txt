@@ -1,0 +1,15 @@
+python-dotenv
+openai
+tiktoken
+beautifulsoup4
+pypdf
+xlsxwriter
+pymupdf
+duckduckgo_search
+numpy
+pytest-playwright
+nltk
+trafilatura
+markdown
+pyyaml
+datasketch
