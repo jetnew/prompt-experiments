@@ -33,7 +33,6 @@ Educational Paradigms: Teaching persistence in problem-solving could be enhanced
 Conclusion:
 The intersection of human behavioral concepts like persistence and obstinacy with quantum mechanics offers a novel and inventive perspective that can drive advancements in quantum computing and enrich our understanding of both fields. This surprising connection underscores the value of interdisciplinary thinking and the potential for cross-domain insights to yield groundbreaking innovations.
 </details>
-<br>
 
 While the relationship drawn between quantum mechanics and obstinacy is questionable, it is at least interestingly *niche*; to reserve terming it "novel" until proven deserved.
 
