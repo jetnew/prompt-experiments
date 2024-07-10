@@ -162,7 +162,7 @@ Applying the feedback generation prompt on the shorter essay [returns](https://c
 
 The feedback given now seems to deeply analyze the specific question raised by the essay.
 
-The 3 cases can be ordered in terms of decreasing open-endedness:
+The 3 cases can be ordered in terms of increasing open-endedness:
 
 1. Idea Generation: Possibly the least open-ended due to the constraint of "AI startup idea".
 2. Feedback Generation: A short essay that covers fewer bases of a single topic has more room for comments than a long essay that has covered many bases.
